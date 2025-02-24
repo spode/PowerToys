@@ -1,3 +1,8 @@
+# Point of fork
+- Launcher-only
+- Portable-ish
+- Based on v0.76.0 where the UI wasn't terrible
+
 # Microsoft PowerToys
 
 ![Hero image for Microsoft PowerToys](doc/images/overview/PT_hero_image.png)
